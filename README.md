@@ -445,6 +445,13 @@ and   metric ∈ {pdr, throughput, delay, loss, overhead}
 ```
 
 ---
+## Comparison Summary
+- **Random Walk (RW)**: Simpler, less realistic, generally lower PDR and throughput, higher delay and overhead
+- **Random Waypoint (RWP)**: More realistic, higher PDR and throughput, lower delay and overhead, better performance in dynamic scenarios
+- **Overall:** RWP is typically preferred for realistic MANET simulations, while RW can be used for theoretical analysis or baseline comparisons
+- **Full summary**: Refer [COMPARISON ANALYSIS](COMPARISON_ANALYSIS.md) for detailed analysis and insights
+
+---
 
 ## References & Standards
 
