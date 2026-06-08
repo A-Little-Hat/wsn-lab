@@ -115,13 +115,9 @@ Each branch contains its own detailed documentation:
 
 <div align="center">
 
-### ⭐ Active Research - Contributions Welcome
-
-*This is an active research repository. For detailed branch-specific information, please refer to individual branch documentation.*
-
 ---
 
-**Last Updated**: June 2025  
+**Last Updated**: June 2026
 **Main Focus**: Wireless Sensor Networks Research & Development
 
 </div>
