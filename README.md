@@ -31,6 +31,31 @@ Semester 2, 2025
 
 ---
 
+## 📊 Repository Statistics
+
+**Default Branch**: [`wsn-mobility-model-comparative-study`](https://github.com/A-Little-Hat/wsn-lab/tree/wsn-mobility-model-comparative-study) (the main branch for this research)
+
+### 📈 Repository Stats
+- **Language**: Primarily Python, TCL, AWK, Shell scripts
+- **Repository URL**: [github.com/A-Little-Hat/wsn-lab](https://github.com/A-Little-Hat/wsn-lab)
+- **License**: MIT
+
+### 📝 Commit Statistics
+- **Total Commits**: 4+ commits across all branches
+- **Latest Commit**: May 25, 2026
+- **Active Contributors**: Soumyaneel Sarkar
+- **First Commit**: Implementation of comprehensive WSN research framework
+
+### 🔍 Latest Activity
+| Commit | Date | Message |
+|--------|------|---------|
+| `d5a3f11` | May 25, 2026 | Add comparison summary for Random Walk and Random Waypoint mobility models in README |
+| `dca834b` | May 25, 2026 | Refactor metrics scripts to improve readability |
+| `ebe1000` | May 24, 2026 | Add comprehensive analysis of Random Walk and Random Waypoint mobility models |
+| `14f65cd` | May 24, 2026 | Add simulation scripts and data preparation for MANET performance analysis |
+
+---
+
 ## 🌿 Repository Structure
 
 This repository is organized into multiple specialized branches, each focusing on different aspects of WSN research:
