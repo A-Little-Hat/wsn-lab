@@ -33,26 +33,39 @@ Semester 2, 2025
 
 ## 📊 Repository Statistics
 
-**Default Branch**: [`wsn-mobility-model-comparative-study`](https://github.com/A-Little-Hat/wsn-lab/tree/wsn-mobility-model-comparative-study) (the main branch for this research)
+**Default Branch**: [`main`](https://github.com/A-Little-Hat/wsn-lab/tree/main) ⭐
 
 ### 📈 Repository Stats
-- **Language**: Primarily Python, TCL, AWK, Shell scripts
+- **Language**: Primarily TCL, Python, AWK, Shell scripts
 - **Repository URL**: [github.com/A-Little-Hat/wsn-lab](https://github.com/A-Little-Hat/wsn-lab)
 - **License**: MIT
+- **Repository Created**: May 25, 2026
+- **Last Updated**: June 8, 2026
+- **Stars**: 0 | **Forks**: 0 | **Open Issues**: 0
 
 ### 📝 Commit Statistics
-- **Total Commits**: 4+ commits across all branches
-- **Latest Commit**: May 25, 2026
-- **Active Contributors**: Soumyaneel Sarkar
-- **First Commit**: Implementation of comprehensive WSN research framework
+- **Total Commits**: 4 commits (across all branches)
+- **Latest Commit**: June 8, 2026, 10:35 AM UTC
+- **Active Contributors**: Soumyaneel Sarkar (65025579)
+- **Commit Frequency**: Regular development activity
 
-### 🔍 Latest Activity
-| Commit | Date | Message |
-|--------|------|---------|
-| `d5a3f11` | May 25, 2026 | Add comparison summary for Random Walk and Random Waypoint mobility models in README |
-| `dca834b` | May 25, 2026 | Refactor metrics scripts to improve readability |
-| `ebe1000` | May 24, 2026 | Add comprehensive analysis of Random Walk and Random Waypoint mobility models |
-| `14f65cd` | May 24, 2026 | Add simulation scripts and data preparation for MANET performance analysis |
+### 📊 Commit Graph
+```
+* 7de8a2e (Jun 8, 10:35) - main branch readme added
+* a857698 (Jun 8, 10:33) - Enhance README.md with direct links to main branches
+* 1bbd494 (Jun 8, 10:28) - Update README.md to reflect latest update date
+* 181562a (Jun 8, 10:27) - Add README.md for project overview and documentation
+```
+
+### 🔍 Latest Activity (Dynamic - Updated from GitHub)
+| Commit | Date | Author | Message |
+|--------|------|--------|---------|
+| [`7de8a2e`](https://github.com/A-Little-Hat/wsn-lab/commit/7de8a2e) | Jun 8, 2026 | Soumyaneel Sarkar | main branch readme added |
+| [`a857698`](https://github.com/A-Little-Hat/wsn-lab/commit/a857698) | Jun 8, 2026 | Soumyaneel Sarkar | Enhance README.md with direct links to main branches for easier navigation |
+| [`1bbd494`](https://github.com/A-Little-Hat/wsn-lab/commit/1bbd494) | Jun 8, 2026 | Soumyaneel Sarkar | Update README.md to reflect the latest update date and remove outdated contribution note |
+| [`181562a`](https://github.com/A-Little-Hat/wsn-lab/commit/181562a) | Jun 8, 2026 | Soumyaneel Sarkar | Add README.md for project overview and documentation |
+
+**View full commit history**: [github.com/A-Little-Hat/wsn-lab/commits/main](https://github.com/A-Little-Hat/wsn-lab/commits/main)
 
 ---
 
@@ -60,24 +73,35 @@ Semester 2, 2025
 
 This repository is organized into multiple specialized branches, each focusing on different aspects of WSN research:
 
-### 📌 Main Branches
+### 📌 All Available Branches
 
-| Branch | Description | Status | Link |
-|--------|-------------|--------|------|
-| **`wsn-mobility-model-comparative-study`** | Default branch containing the core mobility model comparative analysis and foundational research | 🟢 Active | [Visit Branch](https://github.com/A-Little-Hat/wsn-lab/tree/wsn-mobility-model-comparative-study) |
-| **`spin-project`** | Implementation and analysis of SPIN (Sensor Protocols for Information via Negotiation) protocol | 🟢 Active | [Visit Branch](https://github.com/A-Little-Hat/wsn-lab/tree/spin-project) |
-| **`aodv-dsdv-compare-in-manet`** | Comparative performance evaluation of AODV vs DSDV routing protocols in Mobile Ad-Hoc Networks | 🟢 Active | [Visit Branch](https://github.com/A-Little-Hat/wsn-lab/tree/aodv-dsdv-compare-in-manet) |
+| Branch | Type | Description | Status | Link |
+|--------|------|-------------|--------|------|
+| **`main`** | Default ⭐ | Main branch with project documentation and integration point for all research branches | 🟢 Active | [Visit Branch](https://github.com/A-Little-Hat/wsn-lab/tree/main) |
+| **`wsn-mobility-model-comparative-study`** | Research | Core mobility model comparative analysis and foundational research | 🟢 Active | [Visit Branch](https://github.com/A-Little-Hat/wsn-lab/tree/wsn-mobility-model-comparative-study) |
+| **`spin-project`** | Research | Implementation and analysis of SPIN (Sensor Protocols for Information via Negotiation) protocol | 🟢 Active | [Visit Branch](https://github.com/A-Little-Hat/wsn-lab/tree/spin-project) |
+| **`aodv-dsdv-compare-in-manet`** | Research | Comparative performance evaluation of AODV vs DSDV routing protocols in Mobile Ad-Hoc Networks | 🟢 Active | [Visit Branch](https://github.com/A-Little-Hat/wsn-lab/tree/aodv-dsdv-compare-in-manet) |
 
-### 🔄 Branch Details
+### 🔄 Detailed Branch Information
 
-#### 🌟 `wsn-mobility-model-comparative-study` (Default)
+#### ⭐ `main` (Default Branch)
+**Direct Link**: [github.com/A-Little-Hat/wsn-lab/tree/main](https://github.com/A-Little-Hat/wsn-lab/tree/main)
+
+The primary integration branch containing:
+- Project documentation and README
+- Meta information and branch overview
+- Integration point for research branches
+- Setup and configuration guidelines
+
+#### 🌟 `wsn-mobility-model-comparative-study`
 **Direct Link**: [github.com/A-Little-Hat/wsn-lab/tree/wsn-mobility-model-comparative-study](https://github.com/A-Little-Hat/wsn-lab/tree/wsn-mobility-model-comparative-study)
 
-The primary research branch containing:
-- Mobility model implementations and simulations
+The core research branch containing:
+- Mobility model implementations and simulations (Random Waypoint, Random Walk, Gauss-Markov)
 - Comparative analysis frameworks
 - Performance metrics and evaluation tools
 - Foundational data structures and utilities
+- Simulation scripts and result analysis
 
 #### 🔵 `spin-project`
 **Direct Link**: [github.com/A-Little-Hat/wsn-lab/tree/spin-project](https://github.com/A-Little-Hat/wsn-lab/tree/spin-project)
@@ -87,6 +111,7 @@ Dedicated to SPIN protocol research:
 - Negotiation-based routing mechanisms
 - Energy-efficient communication strategies
 - Simulation and test cases
+- Performance benchmarks
 
 #### 🔴 `aodv-dsdv-compare-in-manet`
 **Direct Link**: [github.com/A-Little-Hat/wsn-lab/tree/aodv-dsdv-compare-in-manet](https://github.com/A-Little-Hat/wsn-lab/tree/aodv-dsdv-compare-in-manet)
@@ -96,6 +121,7 @@ Focused on routing protocol comparison:
 - DSDV (Destination-Sequenced Distance Vector) implementation
 - Performance comparison metrics
 - MANET-specific test scenarios
+- Route discovery and maintenance mechanisms
 
 ---
 
@@ -111,15 +137,23 @@ Focused on routing protocol comparison:
 git clone https://github.com/A-Little-Hat/wsn-lab.git
 cd wsn-lab
 
-# Switch to desired branch for specific research
+# You're on 'main' branch by default
+# Switch to desired research branch
+git checkout wsn-mobility-model-comparative-study
 git checkout spin-project
 git checkout aodv-dsdv-compare-in-manet
 ```
 
 **Direct Branch Links**:
-- 🌟 [wsn-mobility-model-comparative-study](https://github.com/A-Little-Hat/wsn-lab/tree/wsn-mobility-model-comparative-study) - Default branch
+- ⭐ [main](https://github.com/A-Little-Hat/wsn-lab/tree/main) - Default branch (Documentation hub)
+- 🌟 [wsn-mobility-model-comparative-study](https://github.com/A-Little-Hat/wsn-lab/tree/wsn-mobility-model-comparative-study) - Mobility model research
 - 🔵 [spin-project](https://github.com/A-Little-Hat/wsn-lab/tree/spin-project) - SPIN protocol research
 - 🔴 [aodv-dsdv-compare-in-manet](https://github.com/A-Little-Hat/wsn-lab/tree/aodv-dsdv-compare-in-manet) - Routing protocol comparison
+
+**Quick Links**:
+- 📊 [Commit History](https://github.com/A-Little-Hat/wsn-lab/commits/main)
+- 🌳 [Branch Network](https://github.com/A-Little-Hat/wsn-lab/network)
+- 📈 [Repository Graphs](https://github.com/A-Little-Hat/wsn-lab/graphs/contributors)
 
 ---
 
@@ -133,15 +167,22 @@ Each branch contains its own detailed documentation:
 
 ---
 
-## 🔗 External Resources
+## 🔗 External Resources & Links
 
 **Repository**: [github.com/A-Little-Hat/wsn-lab](https://github.com/A-Little-Hat/wsn-lab)  
 **All Branches**: [github.com/A-Little-Hat/wsn-lab/branches](https://github.com/A-Little-Hat/wsn-lab/branches)
 
-**Direct Branch Links**:
-- [wsn-mobility-model-comparative-study](https://github.com/A-Little-Hat/wsn-lab/tree/wsn-mobility-model-comparative-study) (Default)
-- [spin-project](https://github.com/A-Little-Hat/wsn-lab/tree/spin-project)
-- [aodv-dsdv-compare-in-manet](https://github.com/A-Little-Hat/wsn-lab/tree/aodv-dsdv-compare-in-manet)
+### 📊 Repository Analytics
+- **Commit History**: [github.com/A-Little-Hat/wsn-lab/commits](https://github.com/A-Little-Hat/wsn-lab/commits)
+- **Contributor Stats**: [github.com/A-Little-Hat/wsn-lab/graphs/contributors](https://github.com/A-Little-Hat/wsn-lab/graphs/contributors)
+- **Network Graph**: [github.com/A-Little-Hat/wsn-lab/network](https://github.com/A-Little-Hat/wsn-lab/network)
+- **Traffic**: [github.com/A-Little-Hat/wsn-lab/graphs/traffic](https://github.com/A-Little-Hat/wsn-lab/graphs/traffic)
+
+### 🌳 Direct Branch Links
+- ⭐ [main](https://github.com/A-Little-Hat/wsn-lab/tree/main) - Default branch
+- [wsn-mobility-model-comparative-study](https://github.com/A-Little-Hat/wsn-lab/tree/wsn-mobility-model-comparative-study) - Mobility model research
+- [spin-project](https://github.com/A-Little-Hat/wsn-lab/tree/spin-project) - SPIN protocol research
+- [aodv-dsdv-compare-in-manet](https://github.com/A-Little-Hat/wsn-lab/tree/aodv-dsdv-compare-in-manet) - Routing protocol comparison
 
 ---
 
