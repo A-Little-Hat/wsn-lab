@@ -27,7 +27,7 @@ This repository houses research and implementation studies focused on **Wireless
 
 **Soumyaneel Sarkar**  
 *M.Tech Student - Wireless Sensor Networks Lab*  
-Semester 2, 2025
+Semester 2, 2026
 
 ---
 
@@ -40,30 +40,10 @@ Semester 2, 2025
 - **Repository URL**: [github.com/A-Little-Hat/wsn-lab](https://github.com/A-Little-Hat/wsn-lab)
 - **License**: MIT
 - **Repository Created**: May 25, 2026
-- **Last Updated**: June 8, 2026
+- **Last Updated**: June 17, 2026
 - **Stars**: 0 | **Forks**: 0 | **Open Issues**: 0
 
-### 📝 Commit Statistics
-- **Total Commits**: 4 commits (across all branches)
-- **Latest Commit**: June 8, 2026, 10:35 AM UTC
-- **Active Contributors**: Soumyaneel Sarkar (65025579)
-- **Commit Frequency**: Regular development activity
 
-### 📊 Commit Graph
-```
-* 7de8a2e (Jun 8, 10:35) - main branch readme added
-* a857698 (Jun 8, 10:33) - Enhance README.md with direct links to main branches
-* 1bbd494 (Jun 8, 10:28) - Update README.md to reflect latest update date
-* 181562a (Jun 8, 10:27) - Add README.md for project overview and documentation
-```
-
-### 🔍 Latest Activity (Dynamic - Updated from GitHub)
-| Commit | Date | Author | Message |
-|--------|------|--------|---------|
-| [`7de8a2e`](https://github.com/A-Little-Hat/wsn-lab/commit/7de8a2e) | Jun 8, 2026 | Soumyaneel Sarkar | main branch readme added |
-| [`a857698`](https://github.com/A-Little-Hat/wsn-lab/commit/a857698) | Jun 8, 2026 | Soumyaneel Sarkar | Enhance README.md with direct links to main branches for easier navigation |
-| [`1bbd494`](https://github.com/A-Little-Hat/wsn-lab/commit/1bbd494) | Jun 8, 2026 | Soumyaneel Sarkar | Update README.md to reflect the latest update date and remove outdated contribution note |
-| [`181562a`](https://github.com/A-Little-Hat/wsn-lab/commit/181562a) | Jun 8, 2026 | Soumyaneel Sarkar | Add README.md for project overview and documentation |
 
 **View full commit history**: [github.com/A-Little-Hat/wsn-lab/commits/main](https://github.com/A-Little-Hat/wsn-lab/commits/main)
 
@@ -81,6 +61,7 @@ This repository is organized into multiple specialized branches, each focusing o
 | **`wsn-mobility-model-comparative-study`** | Research | Core mobility model comparative analysis and foundational research | 🟢 Active | [Visit Branch](https://github.com/A-Little-Hat/wsn-lab/tree/wsn-mobility-model-comparative-study) |
 | **`spin-project`** | Research | Implementation and analysis of SPIN (Sensor Protocols for Information via Negotiation) protocol | 🟢 Active | [Visit Branch](https://github.com/A-Little-Hat/wsn-lab/tree/spin-project) |
 | **`aodv-dsdv-compare-in-manet`** | Research | Comparative performance evaluation of AODV vs DSDV routing protocols in Mobile Ad-Hoc Networks | 🟢 Active | [Visit Branch](https://github.com/A-Little-Hat/wsn-lab/tree/aodv-dsdv-compare-in-manet) |
+| **`implement-leach-rumor-routing`** | Research | Comparative performance evaluation of AODV vs DSDV routing protocols in Mobile Ad-Hoc Networks | 🟢 Active | [Visit Branch](https://github.com/A-Little-Hat/wsn-lab/tree/implement-leach-rumor-routing) |
 
 ### 🔄 Detailed Branch Information
 
@@ -115,13 +96,17 @@ Dedicated to SPIN protocol research:
 
 #### 🔴 `aodv-dsdv-compare-in-manet`
 **Direct Link**: [github.com/A-Little-Hat/wsn-lab/tree/aodv-dsdv-compare-in-manet](https://github.com/A-Little-Hat/wsn-lab/tree/aodv-dsdv-compare-in-manet)
-
-Focused on routing protocol comparison:
-- AODV (Ad hoc On-Demand Distance Vector) implementation
-- DSDV (Destination-Sequenced Distance Vector) implementation
 - Performance comparison metrics
 - MANET-specific test scenarios
 - Route discovery and maintenance mechanisms
+
+#### 🛜 `implement-leach-rumor-routing`
+**Direct Link**: [github.com/A-Little-Hat/wsn-lab/tree/implement-leach-rumor-routing](https://github.com/A-Little-Hat/wsn-lab/tree/implement-leach-rumor-routing)
+
+Focused on implementing and evaluating the LEACH and Rumor protocols:
+- LEACH protocol implementation
+- Rumor protocol implementation
+
 
 ---
 
@@ -149,6 +134,7 @@ git checkout aodv-dsdv-compare-in-manet
 - 🌟 [wsn-mobility-model-comparative-study](https://github.com/A-Little-Hat/wsn-lab/tree/wsn-mobility-model-comparative-study) - Mobility model research
 - 🔵 [spin-project](https://github.com/A-Little-Hat/wsn-lab/tree/spin-project) - SPIN protocol research
 - 🔴 [aodv-dsdv-compare-in-manet](https://github.com/A-Little-Hat/wsn-lab/tree/aodv-dsdv-compare-in-manet) - Routing protocol comparison
+- 🛜 [implement-leach-rumor-routing](https://github.com/A-Little-Hat/wsn-lab/tree/implement-leach-rumor-routing) - LEACH and Rumor protocol implementation
 
 **Quick Links**:
 - 📊 [Commit History](https://github.com/A-Little-Hat/wsn-lab/commits/main)
@@ -183,6 +169,7 @@ Each branch contains its own detailed documentation:
 - [wsn-mobility-model-comparative-study](https://github.com/A-Little-Hat/wsn-lab/tree/wsn-mobility-model-comparative-study) - Mobility model research
 - [spin-project](https://github.com/A-Little-Hat/wsn-lab/tree/spin-project) - SPIN protocol research
 - [aodv-dsdv-compare-in-manet](https://github.com/A-Little-Hat/wsn-lab/tree/aodv-dsdv-compare-in-manet) - Routing protocol comparison
+- [implement-leach-rumor-routing](https://github.com/A-Little-Hat/wsn-lab/tree/implement-leach-rumor-routing) - LEACH and Rumor protocol implementation
 
 ---
 
