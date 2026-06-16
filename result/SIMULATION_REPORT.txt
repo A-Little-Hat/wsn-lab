@@ -1,0 +1,37 @@
+=================================================
+LEACH vs RUMOR ROUTING REPORT
+=================================================
+
+Execution Time : Wed Jun 17 00:43:03 IST 2026
+
+Node Counts:
+20
+40
+60
+80
+100
+120
+140
+160
+180
+200
+
+Trace Directory:
+/home/soumyaneel/ns2/examples/leach-rumor/trace
+
+NAM Directory:
+/home/soumyaneel/ns2/examples/leach-rumor/nam
+
+Plot Directory:
+/home/soumyaneel/ns2/examples/leach-rumor/result/plot
+
+Data Files:
+/home/soumyaneel/ns2/examples/leach-rumor/gnu/data/leach.dat
+/home/soumyaneel/ns2/examples/leach-rumor/gnu/data/rumor.dat
+
+Status: SUCCESS
+
+Generated Plots:
+1. pdr_comparison.png
+2. throughput_comparison.png
+3. delay_comparison.png
